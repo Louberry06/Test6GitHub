@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>0299ED2A-B95C-4667-BE1B-BC60F0DA7A25</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>0299ED2A-B95C-4667-BE1B-BC60F0DA7A25.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Fitness With Lou Build Description</string>
+			<key>timeStartedRecording</key>
+			<real>657671473.190943</real>
+			<key>timeStoppedRecording</key>
+			<real>657671476.07228696</real>
+			<key>title</key>
+			<string>Fitness With Lou Build Description</string>
+			<key>uniqueIdentifier</key>
+			<string>0299ED2A-B95C-4667-BE1B-BC60F0DA7A25</string>
+		</dict>
+		<key>59B59D00-0A87-4EB0-AD99-82A9809929B3</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>59B59D00-0A87-4EB0-AD99-82A9809929B3.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Workspace Build Description</string>
+			<key>timeStartedRecording</key>
+			<real>657671139.69978404</real>
+			<key>timeStoppedRecording</key>
+			<real>657671146.10502803</real>
+			<key>title</key>
+			<string>Workspace Build Description</string>
+			<key>uniqueIdentifier</key>
+			<string>59B59D00-0A87-4EB0-AD99-82A9809929B3</string>
+		</dict>
+		<key>6F3BF03A-A4F2-4CEA-A667-EB5DDB9AD710</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>6F3BF03A-A4F2-4CEA-A667-EB5DDB9AD710.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Fitness With LouTests Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>657671146.45722103</real>
+			<key>timeStoppedRecording</key>
+			<real>657671146.51829195</real>
+			<key>title</key>
+			<string>Fitness With LouTests Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>6F3BF03A-A4F2-4CEA-A667-EB5DDB9AD710</string>
+		</dict>
+		<key>8F91F5FB-8FEF-4FFC-8920-91F3BEF85A9B</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>8F91F5FB-8FEF-4FFC-8920-91F3BEF85A9B.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Fitness With Lou Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>657671476.08041501</real>
+			<key>timeStoppedRecording</key>
+			<real>657671476.16231096</real>
+			<key>title</key>
+			<string>Fitness With Lou Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>8F91F5FB-8FEF-4FFC-8920-91F3BEF85A9B</string>
+		</dict>
+		<key>ADB139E7-42B9-4220-8A18-3F7794B2F879</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>ADB139E7-42B9-4220-8A18-3F7794B2F879.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Fitness With Lou Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>657671146.20005405</real>
+			<key>timeStoppedRecording</key>
+			<real>657671146.31423604</real>
+			<key>title</key>
+			<string>Fitness With Lou Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>ADB139E7-42B9-4220-8A18-3F7794B2F879</string>
+		</dict>
+		<key>BFC9023F-498F-4462-94EF-0C991CF14DCF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>BFC9023F-498F-4462-94EF-0C991CF14DCF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Workspace Build Description</string>
+			<key>timeStartedRecording</key>
+			<real>657671473.19019306</real>
+			<key>timeStoppedRecording</key>
+			<real>657671476.20730901</real>
+			<key>title</key>
+			<string>Workspace Build Description</string>
+			<key>uniqueIdentifier</key>
+			<string>BFC9023F-498F-4462-94EF-0C991CF14DCF</string>
+		</dict>
+		<key>E9D69C1E-8FA1-4814-B44C-A3251C68F5EF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.IndexBuildLog</string>
+			<key>fileName</key>
+			<string>E9D69C1E-8FA1-4814-B44C-A3251C68F5EF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Index Build</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Fitness With LouUITests Build Preparation</string>
+			<key>timeStartedRecording</key>
+			<real>657671146.32742405</real>
+			<key>timeStoppedRecording</key>
+			<real>657671146.43494296</real>
+			<key>title</key>
+			<string>Fitness With LouUITests Build Preparation</string>
+			<key>uniqueIdentifier</key>
+			<string>E9D69C1E-8FA1-4814-B44C-A3251C68F5EF</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

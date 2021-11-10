@@ -1,0 +1,54 @@
+{
+  "homebrew_version": "3.2.15-49-g1eaf8db",
+  "used_options": [
+
+  ],
+  "unused_options": [
+
+  ],
+  "built_as_bottle": true,
+  "poured_from_bottle": true,
+  "installed_as_dependency": false,
+  "installed_on_request": true,
+  "changed_files": [
+    "bin/pod",
+    "bin/xcodeproj",
+    "libexec/gems/ffi-1.15.4/ext/ffi_c/extconf.rb",
+    "libexec/gems/ffi-1.15.4/ext/ffi_c/libffi/.travis/build-cross-in-container.sh",
+    "libexec/gems/ffi-1.15.4/ext/ffi_c/libffi/.travis/build.sh",
+    "libexec/gems/ffi-1.15.4/ext/ffi_c/libffi/configure",
+    "libexec/extensions/universal-darwin-20/2.6.0/ffi-1.15.4/gem_make.out",
+    "libexec/gems/cocoapods-plugins-1.0.0/.travis.yml",
+    "libexec/gems/ffi-1.15.4/lib/ffi/library.rb",
+    "libexec/gems/ruby-macho-2.5.1/lib/macho/macho_file.rb"
+  ],
+  "time": 1634904353,
+  "source_modified_time": 1631549964,
+  "compiler": "clang",
+  "aliases": [
+
+  ],
+  "runtime_dependencies": [
+
+  ],
+  "source": {
+    "spec": "stable",
+    "versions": {
+      "stable": "1.11.2",
+      "head": null,
+      "version_scheme": 0
+    },
+    "path": "/usr/local/Homebrew/Library/Taps/homebrew/homebrew-core/Formula/cocoapods.rb",
+    "tap_git_head": "97fc20123e53d9fd5399605f718ae9671d41896c",
+    "tap": "homebrew/core"
+  },
+  "arch": "x86_64",
+  "built_on": {
+    "os": "Macintosh",
+    "os_version": "macOS 11",
+    "cpu_family": "penryn",
+    "xcode": "13.0",
+    "clt": "13.0.0.0.1.1630607135",
+    "preferred_perl": "5.30"
+  }
+}

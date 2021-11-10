@@ -1,0 +1,13 @@
+Target dependency graph (8 targets)
+Test4 in Test4, no dependencies
+Test4 in Test4, no dependencies
+Test4Tests in Test4, depends on:
+Test4 in Test4 (explicit)
+Test4Tests in Test4, depends on:
+Test4 in Test4 (explicit)
+Test4Tests in Test4, no dependencies
+Test4UITests in Test4, depends on:
+Test4 in Test4 (explicit)
+Test4UITests in Test4, depends on:
+Test4 in Test4 (explicit)
+Test4UITests in Test4, no dependencies

@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.5.1 (swiftlang-1300.0.31.4 clang-1300.0.29.6)"
+options: "dd8fc11cfad3b6bb232b79f4b0ab53bd37c76bf4d5f9475deb30660b746a6d12"
+build_start_time: [1635894273, 950793981]
+build_end_time: [1635894279, 418457984]
+inputs:
+  "/Users/codingaccount1/AppPractice/Test4/Test4/ContentView.swift": [1635683356, 459526538]
+  "/Users/codingaccount1/AppPractice/Test4/Test4/Test4App.swift": [1635683356, 455487012]

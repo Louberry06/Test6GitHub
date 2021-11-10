@@ -1,0 +1,65 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "d4df2680f2f1154f57dd7c7532f8198fae30e4bb97549e0277dd90c2516a2fe4"
+    },
+    {
+      "guid" : "d4df2680f2f1154f57dd7c7532f8198f4514180f34ed29d78b9ec3b19118948e"
+    },
+    {
+      "guid" : "d4df2680f2f1154f57dd7c7532f8198ffcfa47651dec441beeac22cc968c2549"
+    }
+  ],
+  "containerPath" : "/Applications/Fitness With Lou/Fitness With Lou.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator15.0",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/codingaccount1/AppPractice/Test5/Fitness_With_Lou-aiuvmswextmlmhdwucedlgxksvys/Index/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/codingaccount1/AppPractice/Test5/Fitness_With_Lou-aiuvmswextmlmhdwucedlgxksvys/Index/Build/Products",
+      "derivedDataPath" : "/Users/codingaccount1/AppPractice/Test5",
+      "indexDataStoreFolderPath" : "/Users/codingaccount1/AppPractice/Test5/Fitness_With_Lou-aiuvmswextmlmhdwucedlgxksvys/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/codingaccount1/AppPractice/Test5/Fitness_With_Lou-aiuvmswextmlmhdwucedlgxksvys/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/codingaccount1/AppPractice/Test5/Fitness_With_Lou-aiuvmswextmlmhdwucedlgxksvys/Index/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "INDEX_ARENA_INFO_REGULAR_BUILD_PRODUCTS_DIR" : "/Users/codingaccount1/AppPractice/Test5/Fitness_With_Lou-aiuvmswextmlmhdwucedlgxksvys/Build/Products",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

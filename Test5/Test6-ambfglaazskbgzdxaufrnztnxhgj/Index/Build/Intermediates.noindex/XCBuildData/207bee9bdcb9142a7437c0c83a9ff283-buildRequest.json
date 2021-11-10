@@ -1,0 +1,66 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "23015c772e57012341389478dd1138a9091b8b350f99b23292cc8f6705aefbb9"
+    },
+    {
+      "guid" : "23015c772e57012341389478dd1138a9139cbd59af4896449db6534ce2a70a2a"
+    },
+    {
+      "guid" : "23015c772e57012341389478dd1138a901bc64851b5438db2f508536abb77328"
+    }
+  ],
+  "containerPath" : "/Users/codingaccount1/AppPractice/Test6/Test6.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "x86_64h",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx12.0",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "x86_64h",
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64h"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/codingaccount1/AppPractice/Test5/Test6-ambfglaazskbgzdxaufrnztnxhgj/Index/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/codingaccount1/AppPractice/Test5/Test6-ambfglaazskbgzdxaufrnztnxhgj/Index/Build/Products",
+      "derivedDataPath" : "/Users/codingaccount1/AppPractice/Test5",
+      "indexDataStoreFolderPath" : "/Users/codingaccount1/AppPractice/Test5/Test6-ambfglaazskbgzdxaufrnztnxhgj/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/codingaccount1/AppPractice/Test5/Test6-ambfglaazskbgzdxaufrnztnxhgj/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/codingaccount1/AppPractice/Test5/Test6-ambfglaazskbgzdxaufrnztnxhgj/Index/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "INDEX_ARENA_INFO_REGULAR_BUILD_PRODUCTS_DIR" : "/Users/codingaccount1/AppPractice/Test5/Test6-ambfglaazskbgzdxaufrnztnxhgj/Build/Products",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "utility",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

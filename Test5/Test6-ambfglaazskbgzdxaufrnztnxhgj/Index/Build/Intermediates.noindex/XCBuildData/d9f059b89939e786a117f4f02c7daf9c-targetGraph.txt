@@ -1,0 +1,13 @@
+Target dependency graph (8 targets)
+Test6 in Test6, no dependencies
+Test6 in Test6, no dependencies
+Test6Tests in Test6, depends on:
+Test6 in Test6 (explicit)
+Test6Tests in Test6, depends on:
+Test6 in Test6 (explicit)
+Test6Tests in Test6, no dependencies
+Test6UITests in Test6, depends on:
+Test6 in Test6 (explicit)
+Test6UITests in Test6, depends on:
+Test6 in Test6 (explicit)
+Test6UITests in Test6, no dependencies

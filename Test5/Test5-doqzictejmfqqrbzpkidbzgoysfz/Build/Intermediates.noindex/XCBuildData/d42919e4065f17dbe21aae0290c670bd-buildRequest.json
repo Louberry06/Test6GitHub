@@ -1,0 +1,63 @@
+{
+  "_buildCommand2" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildOnly"
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "cb5155f5866fc5e0fb03a25922334a3a2e248df151d783c87e8a81324bed5bfc"
+    }
+  ],
+  "containerPath" : "/Users/codingaccount1/AppPractice/Test5/Test5.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator15.0",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/codingaccount1/AppPractice/Test5/Test5-doqzictejmfqqrbzpkidbzgoysfz/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/codingaccount1/AppPractice/Test5/Test5-doqzictejmfqqrbzpkidbzgoysfz/Build/Products",
+      "derivedDataPath" : "/Users/codingaccount1/AppPractice/Test5",
+      "indexDataStoreFolderPath" : "/Users/codingaccount1/AppPractice/Test5/Test5-doqzictejmfqqrbzpkidbzgoysfz/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/codingaccount1/AppPractice/Test5/Test5-doqzictejmfqqrbzpkidbzgoysfz/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/codingaccount1/AppPractice/Test5/Test5-doqzictejmfqqrbzpkidbzgoysfz/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPhone12,5",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "15.0",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "ENABLE_PREVIEWS" : "NO",
+          "TARGET_DEVICE_IDENTIFIER" : "6539AC3A-36C9-46D3-ADD7-CA56B2F95B2E",
+          "TARGET_DEVICE_MODEL" : "iPhone12,5",
+          "TARGET_DEVICE_OS_VERSION" : "15.0",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.5.1 (swiftlang-1300.0.31.4 clang-1300.0.29.6)"
+options: "d669fccf87d2a1399817b59157529a165a4904a30feec43ef4561ad4bd3eb6b4"
+build_start_time: [1636447589, 533499002]
+build_end_time: [1636447590, 642848968]
+inputs:
+  "/Users/codingaccount1/AppPractice/Test6/Test6/AppDelegate.swift": [1635983306, 238183021]
+  "/Users/codingaccount1/AppPractice/Test6/Test6/SceneDelegate.swift": [1636065102, 357557773]
+  "/Users/codingaccount1/AppPractice/Test6/Test6/ViewController.swift": [1636447589, 189134597]

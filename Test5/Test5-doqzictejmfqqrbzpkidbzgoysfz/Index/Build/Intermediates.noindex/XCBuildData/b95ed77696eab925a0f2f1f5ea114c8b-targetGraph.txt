@@ -1,0 +1,8 @@
+Target dependency graph (5 targets)
+Test5 in Test5, no dependencies
+Test5 in Test5, no dependencies
+Test5UITests in Test5, depends on:
+Test5 in Test5 (explicit)
+Test5UITests in Test5, depends on:
+Test5 in Test5 (explicit)
+Test5UITests in Test5, no dependencies

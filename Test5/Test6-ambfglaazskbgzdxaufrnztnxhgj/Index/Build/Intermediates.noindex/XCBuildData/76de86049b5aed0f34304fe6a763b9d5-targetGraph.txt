@@ -1,0 +1,3 @@
+Target dependency graph (2 targets)
+Test6 in Test6, no dependencies
+Test6 in Test6, no dependencies

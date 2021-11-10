@@ -1,0 +1,2 @@
+#!/bin/bash
+GEM_HOME="/usr/local/Cellar/cocoapods/1.11.2_1/libexec" exec "/usr/local/Cellar/cocoapods/1.11.2_1/libexec/bin/pod"  "$@"
